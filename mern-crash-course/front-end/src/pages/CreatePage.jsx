@@ -9,7 +9,6 @@ import {
 import React, { useState } from "react";
 import { useColorModeValue } from "../components/ui/color-mode";
 import { useProductStore } from "../store/product";
-import { Toaster } from "../components/ui/toaster";
 
 const CreatePage = () => {
   const [newProduct, setNewProduct] = useState({
@@ -17,33 +16,33 @@ const CreatePage = () => {
     price: "",
     image: "",
   });
-
   const { createProduct } = useProductStore();
   const handleAddProduct = async () => {
     const { success, message } = await createProduct(newProduct);
-    // if (!success) {
-    //   toaster.create({
-    //     description: message,
-    //     type: "success",
-    //   });
-    // } else {
-    //   toaster.create({
-    //     description: message,
-    //     type: "error",
-    //   });
-    // }
+    console.log("Error!!");
+    if (!success) {
+      //   toast({
+      //     description: message,
+      //     type: "error",
+      //   });
+      //   console.log("Error!!");
+    } else {
+      //   // toaster.create({
+      //   //   description: message,
+      //   //   type: "success",
+      //   // });
+      console.log("Success!!");
+    }
     setNewProduct({ name: "", price: "", image: "" });
   };
-  const testToast = () => {
-    console.log("Test");
-    Toaster({
-      title: "Action successful.",
-      description: "You have successfully created a toast notification.",
-      status: "success", // "success", "error", "warning", "info"
-      duration: 5000, // Toast duration in milliseconds
-      isClosable: true, // Allow toast to be closed manually
-    });
-  };
+  // const testToast = () => {
+  //   console.log("Test");
+  //   toast({
+  //     title: "Action successful.",
+  //     description: "You have successfully created a toast notification.",
+  //     status: "success", // "success", "error", "warning", "info"
+  //   });
+  // };
 
   return (
     <Container maxW={"container.sm"}>
@@ -88,9 +87,6 @@ const CreatePage = () => {
 
             <Button colorScheme="blue" onClick={handleAddProduct} w="full">
               Add Product
-            </Button>
-            <Button colorScheme="blue" onClick={testToast} w="full">
-              Test Toast
             </Button>
           </VStack>
         </Box>

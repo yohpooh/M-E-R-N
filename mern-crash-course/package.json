@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon back-end/server.js"
+    "dev": "SET NODE_ENV=development && nodemon back-end/server.js",
+    "build": "npm install && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "SET NODE_ENV=production && node back-end/server.js"
   },
   "type": "module",
   "keywords": [],
