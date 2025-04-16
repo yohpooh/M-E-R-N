@@ -8,17 +8,17 @@
 * Vite
 
 ### Front-End
-React
-Vite
-Chakra UI
+React <br />
+Vite <br />
+Chakra UI <br />
 
 ### Back-End
-JavaSript
-Express JS
-Mongo DB
+JavaSript <br />
+Express JS <br />
+Mongo DB <br />
 
 ### Deployment
-Render
+Render <br />
 
 ## Note
 This code is not mine I followed the tutorial from start to finish and made adjustment since its a little bit outdated..
