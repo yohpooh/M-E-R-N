@@ -35,7 +35,9 @@ and also note that the toast and the modal is outdated but i used dialog in moda
   <a href="https://vite.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/668b9b7b-ece6-466e-bfcd-1567d4c73427" width="36" height="36" alt="Vite" /></a>
   <a href="https://chakra-ui.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/0ddce361-c99b-4737-b4c0-118a476c5596" width="36" height="36" alt="ChakraUI" /></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/1da46036-25cd-418e-9960-ef57d297a966" width="36" height="36" alt="React" /></a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/219d4a01-35b0-4c10-b05d-f7c636838969" width="36" height="36" alt="NodeJS" /></a>
 </p>
+![icons8-node-js-48]()
 
 ### Screenshots
 ![s1](https://github.com/user-attachments/assets/f0e04ddb-d43f-4c29-ac03-55e4f632db52)
