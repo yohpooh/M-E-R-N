@@ -1,4 +1,6 @@
-# Crash Crouse Tutorial in Youtube by Codesistensy
+# Crash Crouse Tutorial in Youtube by freeCodeCamp.org
+
+Video made by Codesistensy
 
 ### MERN Stack
 
