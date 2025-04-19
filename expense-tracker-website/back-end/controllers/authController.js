@@ -1,5 +1,6 @@
 const User = require("../models/User");
 const jwt = require("jsonwebtoken");
+const express = require("express");
 
 //Generate JWT token
 const generateToken = (id) => {
@@ -74,10 +75,11 @@ exports.loginUser = async (req, res) => {
 exports.getUserInfo = async (req, res) => {
   try {
     const user = await User.findById(req.user.id).select("-password");
-    console.log(user);
     if (!user) {
       return res.status[404].json({ message: "User not found" });
     }
+
+    res.status(200).json(user);
   } catch (error) {
     res
       .status(500)
