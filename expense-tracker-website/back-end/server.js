@@ -11,9 +11,8 @@ const dashboardRoutes = require("./routes/dashboardRoutes");
 
 const app = express();
 
-app.use(bodyParser.urlencoded({ extended: false }));
-
 //Middleware to handle CORS
+console.log(process.env.CLIENT_URL);
 app.use(
   cors({
     origin: process.env.CLIENT_URL || "*",
@@ -21,6 +20,8 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
+
+app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(bodyParser.json());
 

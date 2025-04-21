@@ -24,10 +24,9 @@ const AuthLayout = ({ children }) => {
           />
         </div>
 
-        <img
-          src={CARD_TEST}
-          className="w-64 lg:w-[90%] absolute bottom-10 shadow-lg shadow-gray-600/15"
-        />
+        <div className="flex justify-center items-center w-64 lg:w-[90%] h-1/2 rounded-[40px] bg-white absolute bottom-10 shadow-lg shadow-gray-600/15 overflow-hidden">
+          <img src={CARD_TEST} className="w-full h-80 object-cover" />
+        </div>
       </div>
     </div>
   );
