@@ -49,7 +49,7 @@ Some of the UI was copied on the tutorials and another charts.
 ### Documentation
 
 Login and Signup Pages
-https://github.com/user-attachments/assets/1cb170bb-c6b2-4b25-b7d2-3878d1d025bf
+![001](https://github.com/user-attachments/assets/1cb170bb-c6b2-4b25-b7d2-3878d1d025bf)
 https://github.com/user-attachments/assets/6d36eb6d-c74c-4a80-8970-6adfd16dbfaa
 
 I added a Profile Picture just for fun.. and validations of Email and Password and also I added a encryption for the password..
