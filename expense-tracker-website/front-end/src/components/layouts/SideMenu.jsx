@@ -10,8 +10,11 @@ const SideMenu = ({ activeMenu }) => {
   const navigate = useNavigate();
 
   const handleClick = (route) => {
-    handleLogout();
-    return;
+    if (route === "logout") {
+      handleLogout();
+      return;
+    }
+
     navigate(route);
   };
 
