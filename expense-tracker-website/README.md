@@ -101,6 +101,7 @@ The final look of the Dashboard after adding all the Income and Expenses
 ![020](https://github.com/user-attachments/assets/280a0687-f8bd-4c07-969e-8be09f3f2983)
 
 And the responsive part..
+
 ![021](https://github.com/user-attachments/assets/09f2f67c-3b80-4ac1-93c3-0f16b159d319)
 ![023](https://github.com/user-attachments/assets/b7cb4cf5-806d-4aff-8fa0-3b85a50bfb8b)
 ![022](https://github.com/user-attachments/assets/1fc01f68-52f9-4d00-a3f4-62600930e025)
