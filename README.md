@@ -23,3 +23,6 @@ This repository will be open in public just like the Angular/Web-Work folder for
     * Mobile Responsive UI
     * Intuitive Navigation
     * Delete Functionality
+* Expense Tracker Website Version 2 (Folder Name: ang-tracktos-2.0)
+  * This project is also the same as the last one and use the same name but a little bit different I use NextJS instead of Vite and Im gonna implement an AI in this version so that I can scan a reciept.
+  * 
