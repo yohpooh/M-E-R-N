@@ -7,7 +7,7 @@ This repository will be open in public just like the Angular/Web-Work folder for
   * This project is not mine and this is a tutorial on youtube that I've followed.
   * This is my first time learning MERN so I followed the whole tutorial
   * This is the link of the crash course that I taked. [MERN Stack Tutorial](https://www.youtube.com/watch?v=O3BUHwfHf84)
-* Expense Tracker Website (Folder Nam: expense-tracker-website)
+* Expense Tracker Website (Folder Name: expense-tracker-website)
   * User Authentication
   * Dashboard Overview
   * Income Management
