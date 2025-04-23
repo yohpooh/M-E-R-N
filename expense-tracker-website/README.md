@@ -50,60 +50,60 @@ Some of the UI was copied on the tutorials and another charts.
 
 Login and Signup Pages
 ![001](https://github.com/user-attachments/assets/1cb170bb-c6b2-4b25-b7d2-3878d1d025bf)
-https://github.com/user-attachments/assets/6d36eb6d-c74c-4a80-8970-6adfd16dbfaa
+![002](https://github.com/user-attachments/assets/6d36eb6d-c74c-4a80-8970-6adfd16dbfaa)
 
 I added a Profile Picture just for fun.. and validations of Email and Password and also I added a encryption for the password..
-https://github.com/user-attachments/assets/ba48d631-7e01-4c16-9c71-085538c9643b
+![003](https://github.com/user-attachments/assets/78e49ecb-a08a-4423-b534-ea1031c32c24)
 
 This example came from the MongoDB Database
-https://github.com/user-attachments/assets/4f02fd88-6c1c-43de-8a70-efa816b06d21
+![mongo](https://github.com/user-attachments/assets/859ff30c-a02f-42d6-9ccc-96913e563a68)
 
 Dashboard Screenshots before adding all the Incomes and Expenses
-https://github.com/user-attachments/assets/3ec6b999-4c6a-4c27-bebb-476904084947
-https://github.com/user-attachments/assets/07aa0b03-67cd-4f2e-b7ab-447d76d8df2c
+![004](https://github.com/user-attachments/assets/81146606-b1fa-4c92-ba8e-fff1fec2942c)
+![005](https://github.com/user-attachments/assets/fd1c0f53-fb03-4036-83ae-47a40d0c2969)
 
 Income Page before adding all Incomes
-https://github.com/user-attachments/assets/b1c621c3-8f2f-47b0-b0b0-7eb245c9b8be
+![006](https://github.com/user-attachments/assets/4580a6e1-e3e7-419b-b3f4-43dde2ea4d2f)
 
 Now adding an Income
-https://github.com/user-attachments/assets/00a1f48c-316b-4904-85fa-d6b928864892
+![008](https://github.com/user-attachments/assets/f82e7b4c-9f99-4f59-8968-e5613fdab2a3)
 
 I added an Emoji Picker because why not..
-https://github.com/user-attachments/assets/cc9ae7a2-9ed9-42ff-afc5-03e54dfb5e9b
-https://github.com/user-attachments/assets/6ed2ea73-5459-4d7d-a4e3-6945f0b33bfd
+![009](https://github.com/user-attachments/assets/56d3e610-2823-4a71-b4b8-c08a100ca525)
+![010](https://github.com/user-attachments/assets/b30e53fb-1f10-4568-bef2-716f35134cfc)
 
 After I added a bunch for the chart..
-https://github.com/user-attachments/assets/ba3b81a2-f40e-45cf-adc1-99a48ac3dc19
+![011](https://github.com/user-attachments/assets/1b66fc1f-76c0-49f2-a94d-a63dfbb1b166)
 
 and the Delete function. for reference I added the Etc. before hand so that i can ss the Delete part
-https://github.com/user-attachments/assets/0d70efeb-de55-4d0f-b6b5-f052e7d51144
+![012](https://github.com/user-attachments/assets/1302f5f2-7d83-4e68-be6f-f9113b1800e3)
 
 and after deleting..
-https://github.com/user-attachments/assets/3bf03762-26b1-421f-aa13-e0fd2030dd85
+![013](https://github.com/user-attachments/assets/e10133d1-8fc4-4d27-9e02-4293a0155c14)
 
 The download part of the Excel file
-https://github.com/user-attachments/assets/c0eb7f4d-41e9-43d7-b064-860382c4bfea
+![014](https://github.com/user-attachments/assets/a84315e6-5240-4c6a-ae45-62e200637883)
 
 Expense before the adding
-https://github.com/user-attachments/assets/320a8745-d575-4697-9bc8-83590610cbcd
+![015](https://github.com/user-attachments/assets/28f1e5f5-6d0e-468d-8488-fe1917e81ef5)
 
 Its the same as the adding part of the income except the Category part..
-https://github.com/user-attachments/assets/21fce14d-d48e-4cc2-a81b-de51b422ea21
+![016](https://github.com/user-attachments/assets/cb4f89c5-6199-4147-91f9-bd6d8e06447e)
 
 I added a bunch for the graph
-https://github.com/user-attachments/assets/7787ffd1-9c04-4af1-8839-4e2dfab6efec
+![017](https://github.com/user-attachments/assets/27e5690a-c7c9-43b7-997b-dcf13e9d97df)
 
 And the download of Excel file also..
-https://github.com/user-attachments/assets/0fac6b6a-aa01-456d-be4f-8924acfca160
+![018](https://github.com/user-attachments/assets/cf1999e9-f118-4dc5-b616-3107e06c840f)
 
 The final look of the Dashboard after adding all the Income and Expenses
-https://github.com/user-attachments/assets/a7175ca6-8f55-486d-80f0-3bf76a291f43
-https://github.com/user-attachments/assets/436e8421-6257-444e-9774-f6c9807d9d9b
+![019](https://github.com/user-attachments/assets/32e7b370-9995-499d-895e-6c97a062760a)
+![020](https://github.com/user-attachments/assets/280a0687-f8bd-4c07-969e-8be09f3f2983)
 
 And the responsive part..
-https://github.com/user-attachments/assets/3e3c8c15-85ad-443c-80a0-c74966b135ae
-https://github.com/user-attachments/assets/d68d0da5-1250-4bf7-862b-6a8be99f0ec6
-https://github.com/user-attachments/assets/68ee49a0-6821-425c-adde-ebf87b6554db
+![021](https://github.com/user-attachments/assets/09f2f67c-3b80-4ac1-93c3-0f16b159d319)
+![023](https://github.com/user-attachments/assets/b7cb4cf5-806d-4aff-8fa0-3b85a50bfb8b)
+![022](https://github.com/user-attachments/assets/1fc01f68-52f9-4d00-a3f4-62600930e025)
 
 ### How to use
 
