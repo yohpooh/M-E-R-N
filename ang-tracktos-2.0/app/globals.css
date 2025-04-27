@@ -120,3 +120,28 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  /* .gradient {
+    @apply bg-gradient-to-br from-blue-600 to-purple-600;
+  } */
+  .gradient-title {
+    @apply bg-gradient-to-br from-blue-600 to-cyan-500 font-extrabold tracking-tighter pr-2 pb-2 text-transparent bg-clip-text;
+  }
+}
+
+.hero-image-wrapper {
+  perspective: 1000px;
+}
+
+.hero-image {
+  transform: scale(0.95);
+  opacity: 0.8;
+  transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+  will-change: transform, opacity;
+}
+
+.hero-image.scrolled {
+  transform: scale(1) translateY(40px);
+  opacity: 1;
+}
