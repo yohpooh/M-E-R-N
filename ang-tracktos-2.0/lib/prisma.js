@@ -1,15 +1,7 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient } from "./generated/prisma/client";
 
-// Use a global variable to store the PrismaClient instance in development
-let prisma;
-
-if (process.env.NODE_ENV === "production") {
-  prisma = new PrismaClient();
-} else {
-  if (!globalThis.prisma) {
-    globalThis.prisma = new PrismaClient();
-  }
-  prisma = globalThis.prisma;
+export const db = globalThis.prisma || new PrismaClient();
+console.log(globalThis.prisma);
+if (process.env.NODE_ENV !== "production") {
+  globalThis.prisma = db;
 }
-
-export const db = prisma;
