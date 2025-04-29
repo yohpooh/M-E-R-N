@@ -29,7 +29,7 @@ const Header = async () => {
         <div className="flex items-center space-x-4">
           <SignedIn>
             <Link
-              href={"/dashboard"}
+              href="/dashboard"
               className="text-gray-950 flex items-center gap-2"
             >
               <Button variant="outline">
@@ -38,7 +38,7 @@ const Header = async () => {
               </Button>
             </Link>
 
-            <Link href={"/transaction/create"}>
+            <Link href="/transaction/create">
               <Button className="dlex items-center gap-2">
                 <PenBox size={18} />
                 <span className="hidden sm:inline">Add Transaction</span>
